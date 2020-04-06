@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/itmd-x67-2020/wx-ingestor/issues"
   },
-  "homepage": "https://github.com/itmd-x67-2020/wx-ingestor#readme"
+  "homepage": "https://github.com/itmd-x67-2020/wx-ingestor#readme",
+  "dependencies": {
+    "ambient-weather-api": "0.0.6"
+  }
 }
