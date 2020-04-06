@@ -1,0 +1,19 @@
+{
+  "name": "wx-ingestor",
+  "version": "1.0.0",
+  "description": "Small CLI app to read from streaming Ambient Weather API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itmd-x67-2020/wx-ingestor.git"
+  },
+  "author": "Karl Stolley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itmd-x67-2020/wx-ingestor/issues"
+  },
+  "homepage": "https://github.com/itmd-x67-2020/wx-ingestor#readme"
+}
